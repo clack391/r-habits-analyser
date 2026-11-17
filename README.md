@@ -28,7 +28,6 @@ more than one value at a time, that a factor is R's type for a category, that R
 counts from 1 instead of 0, and how ggplot2 builds a chart by adding layers with
 the `+` sign.
 
-[Software Demo Video](https://youtu.be/MqGQ7sqFIwk?si=K20EpvdhxJbgM3oB)
 
 # Development Environment
 
